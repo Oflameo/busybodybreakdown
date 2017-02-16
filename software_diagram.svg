@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="311pt" height="446pt" viewBox="0 0 311 446" version="1.1">
-=======
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="289pt" height="356pt" viewBox="0 0 289 356" version="1.1">
->>>>>>> 352274baab015938d92c274162c83a095034b2be
 <defs>
 <g>
 <symbol overflow="visible" id="glyph0-0">
@@ -191,15 +187,9 @@
 </symbol>
 </g>
 </defs>
-<<<<<<< HEAD
-<g id="surface85815">
+<g id="surface91662">
 <rect x="0" y="0" width="311" height="446" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <path style="fill-rule:evenodd;fill:rgb(94.117647%,81.568629%,94.117647%);fill-opacity:1;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 16.6 2.6 L 27.494922 2.6 L 27.494922 4 L 16.6 4 Z M 16.6 2.6 " transform="matrix(20,0,0,20,-330,-2.25)"/>
-=======
-<g id="surface1857">
-<rect x="0" y="0" width="289" height="356" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
-<path style="fill-rule:evenodd;fill:rgb(94.117647%,81.568629%,94.117647%);fill-opacity:1;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 16.6 0.15 L 27.494922 0.15 L 27.494922 1.55 L 16.6 1.55 Z M 16.6 0.15 " transform="matrix(20,0,0,20,-331,-2)"/>
->>>>>>> 352274baab015938d92c274162c83a095034b2be
 <g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
   <use xlink:href="#glyph0-1" x="63.507812" y="68.757867"/>
   <use xlink:href="#glyph0-2" x="77.109429" y="68.757867"/>
